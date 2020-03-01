@@ -1,6 +1,9 @@
 #include <iostream>
+#include <windows.h>
 
 using namespace std;
+
+
 
 int main()
 {
@@ -22,7 +25,7 @@ int main()
     else 
 
     if (bs == "A") {
-         cout << "Was ein Zufall mein Buchstabe war auch ein A" << endl;
+        cout << "Was ein Zufall mein Buchstabe war auch ein A" << endl;
     }
     
 

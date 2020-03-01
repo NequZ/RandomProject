@@ -1,2 +1,4 @@
 ﻿  RandomProject.cpp
-  RandomProject.vcxproj -> C:\Users\nicif\Desktop\Neuer Ordner (2)\RandomProject\Debug\RandomProject.exe
+C:\Users\nicif\Desktop\Neuer Ordner\ZufallsProjekt\RandomProject.cpp(10,60): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)" : Konvertierung von Argument 2 von "const char [22]" in "LPCWSTR" nicht möglich
+C:\Users\nicif\Desktop\Neuer Ordner\ZufallsProjekt\RandomProject.cpp(10,22): message : Die Typen, auf die verwiesen wird, sind nicht verknüpft; die Konvertierung erfordert einen reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : Siehe Deklaration von "MessageBoxW"
